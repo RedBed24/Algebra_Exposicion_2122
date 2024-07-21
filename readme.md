@@ -9,3 +9,5 @@ lang: es-ES
 
 También se pedía un vídeo, pero no sé dónde está.
 
+El ejercicio resuelto es encontrar las componentes fuertemente conexas en un digrafo.
+
